@@ -1,6 +1,6 @@
-# Nom final de la formation
+# Découvrir Model Context Protocol (MCP)
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Découvrir Model Context Protocol (MCP)`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
