@@ -4,20 +4,17 @@ Ce dossier Repository est lié au cours `Découvrir Model Context Protocol (MCP)
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
-Chaque épisode de la série Level Up offre au moins 12 occasions de s'exercer à la programmation à différents niveaux de difficulté, afin que vous puissiez vous mettre au défi et renforcer ce que vous avez appris. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment mettre en place un espace de code.  
+Cette formation s’adresse aux développeurs souhaitant maîtriser le Model Context Protocol (MCP) appliqué aux modèles de langage (LLM). Aux côtés de Madjid Khichane, vous découvrirez comment ce protocole universel enrichit les LLM en leur transmettant un contexte précis, facilitant ainsi leur interaction fluide avec des données, des outils et des applications. Vous apprendrez à exploiter les serveurs MCP pour gérer ressources, actions et instructions, et ainsi réaliser des opérations complexes plus efficacement. Ce cours vous donnera tous les outils pour intégrer MCP et améliorer la communication entre vos modèles et les systèmes externes.
 
-DESCRIPTION DE LA FORMATION
+Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo « Utiliser Codespaces sur GitHub » pour savoir comment mettre en place un espace de code.  
 
- 
-
- ## Installation
+## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de :
    - Node.js
    - VSCode
-   - Interpréteur python
-   - Créer un environnement virtuel python avec python -m venv [NOM_DE_VOTRE_VENV]
+   - Interpréteur Python
+   - Créer un environnement virtuel python avec Python -m venv [NOM_DE_VOTRE_VENV]
    - Installer les requirements
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
 
