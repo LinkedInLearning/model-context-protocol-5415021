@@ -13,12 +13,13 @@ DESCRIPTION DE LA FORMATION
 
  ## Installation
 
-Pour utiliser ces fichiers d’exercice, vous avez besoin de :
-VSCode
-Interpréteur python
-Créer un environnement virtuel python avec python -m venv [NOM_DE_VOTRE_VENV]
-Installer les requirements
-Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
+1. Pour utiliser ces fichiers d’exercice, vous avez besoin de :
+   - Node.js
+   - VSCode
+   - Interpréteur python
+   - Créer un environnement virtuel python avec python -m venv [NOM_DE_VOTRE_VENV]
+   - Installer les requirements
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
 
 
 ### Formateur
